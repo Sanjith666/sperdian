@@ -1,0 +1,245 @@
+body{
+ 
+
+}
+.container{
+   
+    height: 105vh;
+    width:105vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sqaure{
+    background-color: white;
+    margin-left: 350px;
+    margin-top: 50px;
+  padding-left: 8px;
+  padding-bottom: 100px;
+  padding-top: 30px;
+   height: 850px;
+   width: 850px;
+   border: 1.5px solid black;
+   border-radius: 30px;
+}
+h1{
+    margin-left: 20px;
+    font-size: 1.1rem;
+}
+
+
+.content {
+    border-collapse: collapse;
+   
+    font-size: 1.3em;
+    min-width: 700px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+   
+}
+
+.content thead tr {
+    
+    color: #040404;
+    text-align: left;
+    font-weight: bold;
+}
+.content tbody td {
+    
+    color: #5608e7;
+    text-align: left;
+    font-weight: bold;
+}
+.h{
+    width: 99%;
+    height: .1px;
+ 
+
+    margin-top: 10px;
+    background-color: black;
+}
+
+.div{
+    border-left: 1px solid black;
+    height: 80px;
+    position: absolute;
+  
+    margin-left: 400px;
+    top: 60px;
+}
+
+h2{
+    font-weight: 200;
+    font-size: 1.3rem;
+    margin-left: 20px;
+}
+
+.class  {
+  
+    font-size: 1.3em;
+    min-width: 800px;
+
+    font-weight: 100;
+   
+}
+
+
+.class1 {
+  
+    font-size: 1.3em;
+    min-width: 800px;
+    padding-top: 10px;
+    font-weight: 100;
+   
+}
+
+.class1 thead td {
+color: rgb(0, 0, 0);
+padding-left: 20px; 
+padding-top: 25px;
+}
+.class i{
+    padding-right: 8px;
+}
+.class1 i{
+    padding-right: 8px;
+}
+
+.class2 i{
+    padding-right: 8px;
+}
+
+.class3 i{
+    padding-right: 8px;
+}
+.class4 i{
+    padding-right: 8px;
+}
+.class5 i{
+    padding-right: 8px;
+}
+
+
+
+    
+
+.class1 thead th {
+    color: rgb(0, 0, 0);
+    padding-left: 6px;
+     
+}
+.class i{
+    color: rgb(204, 204, 62);
+}
+.class1 i{
+    color: rgb(204, 204, 62);
+}
+
+.class2 i{
+    color: rgb(204, 204, 62);
+}
+.class3 i{
+    color: rgb(204, 204, 62);
+}
+.class4 i{
+    color: rgb(204, 204, 62);
+}
+
+.class5 i{
+    color: rgb(204, 204, 62);
+}
+
+
+.class2 {
+  
+    font-size: 1.3em;
+    min-width: 800px;
+    padding-top: 10px;
+    font-weight: 100;
+   
+}
+.class2  td {
+    color: rgb(0, 0, 0);
+    padding-left: 20px; 
+    padding-top: 50px;
+    }
+    
+    .class2 th {
+        padding-bottom: 50px;
+        color: rgb(0, 0, 0);
+        padding-left: 6px;
+         
+    }
+
+    .class3 {
+  
+        font-size: 1.3em;
+        min-width: 800px;
+        padding-top: 10px;
+        font-weight: 100;
+       
+    }
+    .class3  td {
+        color: rgb(0, 0, 0);
+        padding-left: 50px; 
+        padding-top:20px;
+        }
+        
+        .class3 th {
+            padding-bottom: 50px;
+            color: rgb(0, 0, 0);
+            padding-left: 20px;
+             
+        }
+
+
+        .class4 {
+  
+            font-size: 1.3em;
+            min-width: 800px;
+            padding-top: 10px;
+            font-weight: 100;
+           
+        }
+        .class4  td {
+            color: rgb(0, 0, 0);
+            padding-left: 20px; 
+            padding-top:50px;
+            }
+            
+            .class4 th {
+                padding-top: 50px;
+                color: rgb(0, 0, 0);
+                padding-left: 20px;
+                 
+            }
+      
+            
+        .class5 {
+  
+            font-size: 1.3em;
+            min-width: 800px;
+            padding-top: 10px;
+            font-weight: 100;
+           
+        }
+        .class5  td {
+            color: rgb(0, 0, 0);
+            padding-left: 20px; 
+            padding-top:70px;
+            }
+            
+            .class5 th {
+                padding-top: 50px;
+                color: rgb(0, 0, 0);
+                padding-left: 20px;
+                 
+            }
+        
+        
+    
+   
+    
+    
+
+
